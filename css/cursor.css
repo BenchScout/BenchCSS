@@ -1,0 +1,15 @@
+.cur-pointer {
+	cursor: pointer;
+}
+
+.cur-grab {
+	cursor: grab;
+}
+
+.cur-default {
+	cursor: default;
+}
+
+.cur-help {
+	cursor: help;
+}
