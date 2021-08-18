@@ -19,3 +19,11 @@ main {
 summary {
 	cursor: pointer;
 }
+
+.float-right {
+	float: right;
+}
+
+.float-left {
+	float: left;
+}
