@@ -33,6 +33,12 @@ a.button:hover {
 	color: var(--color-black);
 }
 
+.button-secondary-inverted {
+	background: var(--color-black);
+	color: var(--color-white);
+	border-color: var(--color-white);
+}
+
 /* primary call to action color button */
 .button-cta-salmon {
 	background: var(--color-salmon);
