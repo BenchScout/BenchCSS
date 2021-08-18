@@ -1,0 +1,39 @@
+.pos-fixed {
+	position: fixed;
+}
+
+.pos-absolute {
+	position: absolute;
+}
+
+.pos-relative {
+	position: relative;
+}
+
+.pos-inherit {
+	position: inherit;
+}
+
+.pos-static {
+	position: static;
+}
+
+.pos-sticky {
+	position: sticky;
+}
+
+.bottom-12 {
+	bottom: 12px
+}
+
+.top-12 {
+	bottom: 12px
+}
+
+.left-12 {
+	bottom: 12px
+}
+
+.right-12 {
+	bottom: 12px
+}
