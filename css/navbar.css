@@ -1,0 +1,33 @@
+nav {
+	background: var(--color-black);
+	color: var(--color-white);
+	padding: 6px 12px;
+	height: 5vh;
+}
+
+nav h1 {
+	font-size: var(--font-size-1);
+	display: inline-block;
+	vertical-align: middle;
+	padding: 0;
+	margin: 0 auto;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav * a {
+	border-color: var(--color-white) !important;
+}
+
+.nav-button {
+	margin-top: -5.5px;
+	float: right;
+}

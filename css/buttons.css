@@ -1,0 +1,76 @@
+/* default button properties */
+.button {
+	margin: 6px;
+	padding: 8px 25px;
+	background: transparent;
+	border: 3px solid var(--color-black);
+	font-family: var(--font-montserrat);
+	font-size: var(--font-size-5);
+	border-radius: 5px;
+	transition: 0.4s;
+	font-weight: bold;
+	display: inline-block;
+	cursor: pointer;
+}
+
+a.button:hover {
+	text-decoration: none;
+}
+
+.button:hover {
+	background: var(--color-black);
+	color: var(--color-white);
+}
+
+/* two main priary buttons */
+.button-primary {
+	background: var(--color-black);
+	color: var(--color-white);
+}
+
+.button-secondary {
+	background: var(--color-white);
+	color: var(--color-black);
+}
+
+/* primary call to action color button */
+.button-cta-salmon {
+	background: var(--color-salmon);
+	color: var(--color-black);
+}
+
+.button-cta-yellow {
+	background: var(--color-yellow);
+	color: var(--color-black);
+}
+
+.button-cta-mint {
+	background: var(--color-mint);
+	color: var(--color-black);
+}
+
+.button-cta-rose-quartz {
+	background: var(--color-rose-quartz);
+	color: var(--color-black);
+}
+
+/* secondary call to action color button */
+.button-danger {
+	background: var(--color-danger);
+	color: var(--color-black);
+}
+
+.button-warning {
+	background: var(--color-warning);
+	color: var(--color-black);
+}
+
+.button-success {
+	background: var(--color-success);
+	color: var(--color-black);
+}
+
+.button-information {
+	background: var(--color-information);
+	color: var(--color-black);
+}

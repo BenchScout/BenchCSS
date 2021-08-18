@@ -1,0 +1,93 @@
+:root {
+	--color-salmon: rgb(255, 216, 152);
+	--color-yellow: rgb(249, 234, 194);
+	--color-mint: rgb(236, 253, 241);
+	--color-rose-quartz: rgb(254, 231, 230);
+	--color-danger: rgb(255, 136, 130);
+	--color-warning: rgb(238, 230, 155);
+	--color-success: rgb(181, 229, 207);
+	--color-information: rgb(255, 163, 132);
+	--color-black: rgb(0, 0, 0);
+	--color-white: rgb(255, 255, 255);
+	--font-montserrat: 'Montserrat', sans-serif;
+	--font-lora: 'Lora', serif;
+	--font-size-hero: 2.7em;
+	--font-size-1: 2em;
+	--font-size-2: 1.5em;
+	--font-size-3: 1.3em;
+	--font-size-4: 1em;
+	--font-size-5: 0.8em;
+	--font-size-6: 0.7em;
+}
+
+/* Montserrat font family */
+@font-face {
+	font-family: 'Montserrat';
+	src: url('/font/Montserrat/400.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('/font/Montserrat/400i.ttf') format('truetype');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('/font/Montserrat/700.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('/font/Montserrat/700i.ttf') format('truetype');
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('/font/Montserrat/900.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Montserrat';
+	src: url('/font/Montserrat/900i.ttf') format('truetype');
+	font-weight: 900;
+	font-style: italic;
+}
+
+/* Lora font family */
+@font-face {
+	font-family: 'Lora';
+	src: url('/font/Lora/400.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url('/font/Lora/400i.ttf') format('truetype');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url('/font/Lora/700.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Lora';
+	src: url('/font/Lora/700i.ttf') format('truetype');
+	font-weight: 700;
+	font-style: italic;
+}

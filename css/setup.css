@@ -1,0 +1,21 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	min-height: 100vh;
+	min-width: 100vw;
+}
+
+main {
+	max-width: 800px;
+	width: 80%;
+	margin: auto;
+}
+
+summary {
+	cursor: pointer;
+}
